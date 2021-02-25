@@ -1,0 +1,19 @@
+{
+    "driver_models": [
+        {
+            "id": "1",
+            "name": "AsymmetricIDM",
+            "rel_path": "DriverModels.IDM.AsymmetricIDM"
+        },
+        {
+            "id": "2",
+            "name": "AStarSearch",
+            "rel_path": "DriverModels.A_star.AStarSearch"
+        },
+        {
+            "id": "3",
+            "name": "DecentralizedAStarSearch",
+            "rel_path": "DriverModels.A_star.DecentralizedAStarSearch"
+        }
+    ]
+}
